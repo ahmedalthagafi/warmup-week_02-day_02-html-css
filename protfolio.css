@@ -1,0 +1,52 @@
+body{
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+     font-family: sans-serif;
+     background-color: whitesmoke;
+}
+
+
+
+.nav-part{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+    
+
+}
+
+main{
+    width: 80%;
+    margin: 0 250px;
+
+}
+main ul img{
+     margin-left: 80px; 
+    border: 3px solid black
+}
+main ul li{
+    padding-top: 25px;
+
+}
+nav{
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    margin-top: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+main nav a{
+    color: black;
+   
+}
+.nav-part a{
+    color: black;
+}
+.bottom-nav{
+    padding-right: 95px;
+}
+hr{
+    width: 70%;
+}
